@@ -1,4 +1,4 @@
 # DelaunayVoronoi
 Program przedstawiający diagram Voronoi z użyciem algorytmu opartego na triangulacji Delaunay
 
-W celu uruchomienia programu należy pobrać folder "projekt" z repozytorium, otworzyć go we własnym IDE (np. PyCharm) a następnie uruchomić plik "voronoi".
+Aby uruchomić program należy pobrać potrzebne pliki. W tym celu należy kliknąć zielony przycisk "Code" znajdujący się na górze po prawej stronie w stosunku do wyświetlanych plików a następnie kliknąć przycisk "Download ZIP". Pobrany folder należy rozpakować, plik "voronoi" otworzyć w IDE (np. PyCharm) i uruchomić.
